@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./flag.css">
+    <title>Bandera de Noruega</title>
+</head>
+<body>
+
+    <div class= "parte-1">
+        <div class="cuadrado1"></div>
+        <div class= "rectangulo-h-a"></div>
+        <div class="cuadrado2"></div>
+
+    </div>
+    
+    <div class= "parte-2">
+
+        <div class= "rectangulo-v-a"></div>
+
+    </div>
+
+    <div class= "parte-3">
+        <div class="rectangulo-r1"></div>
+        <div class= "rectangulo-a"></div>
+        <div class="rectangulo-r2"></div>
+
+    </div>
+
+
+        
+    
+</body>
+</html>
